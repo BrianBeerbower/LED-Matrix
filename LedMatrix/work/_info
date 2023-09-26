@@ -1,0 +1,359 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vBlank
+Z0 !s110 1682091858
+!i10b 1
+!s100 offjR[_Rb9A0lmXZ7Z8iS0
+I`V=JLZFBU>RcaU5c2M9Rg2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Bigbm/Desktop/LedMatrix
+Z3 w1680637331
+Z4 8C:/Users/Bigbm/Desktop/LedMatrix/Blocks.v
+Z5 FC:/Users/Bigbm/Desktop/LedMatrix/Blocks.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1682091858.000000
+Z8 !s107 C:/Users/Bigbm/Desktop/LedMatrix/Blocks.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Bigbm/Desktop/LedMatrix/Blocks.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@blank
+vBlock
+!s110 1680636385
+!i10b 1
+!s100 4^3J<cWKgKcla6Bo<;OPh2
+I:lL7QUfgV0hd6g@9G=:Z]2
+R1
+R2
+w1680635288
+Z12 8C:/Users/Bigbm/Desktop/LedMatrix/Code1.v
+Z13 FC:/Users/Bigbm/Desktop/LedMatrix/Code1.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1680636385.000000
+Z14 !s107 C:/Users/Bigbm/Desktop/LedMatrix/Code1.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Bigbm/Desktop/LedMatrix/Code1.v|
+!i113 1
+R10
+R11
+n@block
+vBlock1
+R0
+!i10b 1
+!s100 3KR@SYjgfN;mG5YhlEDBN2
+I7cD4XMi[@6Q6>oGUTB_i=0
+R1
+R2
+R3
+R4
+R5
+Z16 L0 61
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@block1
+vBlock2
+R0
+!i10b 1
+!s100 GA<R]gH3?Yg]jO<XhkRLZ1
+IHIaD5b=NF]l<]NQNa4:TZ0
+R1
+R2
+R3
+R4
+R5
+Z17 L0 121
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@block2
+vBlock3
+R0
+!i10b 1
+!s100 E?gdhGGh=9BGbJZBeg1g53
+IN5bQXZbbZNNnP1WgUF@1`3
+R1
+R2
+R3
+R4
+R5
+Z18 L0 181
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@block3
+vCode1
+!s110 1680634143
+!i10b 1
+!s100 W6NJ0LBCS?WZE?HOWmn`F2
+Iia?BocEW:eNXQ5>g8H?QV0
+R1
+R2
+w1680634139
+R12
+R13
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1680634143.000000
+R14
+R15
+!i113 1
+R10
+R11
+n@code1
+vD0
+Z19 !s110 1682091859
+!i10b 1
+!s100 9]:5bdff;_ZgfQVANhFG62
+I:_0bBnQmZU78FO7GZCW140
+R1
+R2
+Z20 w1680638898
+Z21 8C:/Users/Bigbm/Desktop/LedMatrix/Layer3.v
+Z22 FC:/Users/Bigbm/Desktop/LedMatrix/Layer3.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z23 !s107 C:/Users/Bigbm/Desktop/LedMatrix/Layer3.v|
+Z24 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Bigbm/Desktop/LedMatrix/Layer3.v|
+!i113 1
+R10
+R11
+n@d0
+vD1
+R19
+!i10b 1
+!s100 d=Q4TBJk`ZcilHEWM[MmP1
+ICK95eRjl6ac:DjW[A>n>X0
+R1
+R2
+R20
+R21
+R22
+R16
+R6
+r1
+!s85 0
+31
+R7
+R23
+R24
+!i113 1
+R10
+R11
+n@d1
+vD2
+R19
+!i10b 1
+!s100 EoY3mFzRfEaz28?DefIGC3
+ISPAD_e7o;Pc@b?1@PFWCG2
+R1
+R2
+R20
+R21
+R22
+R17
+R6
+r1
+!s85 0
+31
+R7
+R23
+R24
+!i113 1
+R10
+R11
+n@d2
+vD3
+R19
+!i10b 1
+!s100 F0mmeb:N_=>;f5hjnRFeC3
+I6CKK8e6h4IS4KZccS9Y093
+R1
+R2
+R20
+R21
+R22
+R18
+R6
+r1
+!s85 0
+31
+R7
+R23
+R24
+!i113 1
+R10
+R11
+n@d3
+vD4
+R19
+!i10b 1
+!s100 Ff3n6z7ANdW6LVAXejH<a3
+I3JAV6=C;0K;aKH72FDAHk2
+R1
+R2
+R20
+R21
+R22
+L0 241
+R6
+r1
+!s85 0
+31
+R7
+R23
+R24
+!i113 1
+R10
+R11
+n@d4
+vflicker
+R19
+!i10b 1
+!s100 3cJo;m6LBjSNNcSQm4>jR2
+I>hnJ2X@P3z^iAG`nFBCZl3
+R1
+R2
+w1681146529
+8C:/Users/Bigbm/Desktop/LedMatrix/Mainloop2.v
+FC:/Users/Bigbm/Desktop/LedMatrix/Mainloop2.v
+L0 621
+R6
+r1
+!s85 0
+31
+Z25 !s108 1682091859.000000
+!s107 C:/Users/Bigbm/Desktop/LedMatrix/Mainloop2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Bigbm/Desktop/LedMatrix/Mainloop2.v|
+!i113 1
+R10
+R11
+vMainLoop
+R0
+!i10b 1
+!s100 8Khal27RM`VVd1L3QmNmD0
+I[8QTjghXbK]GQ=Vz7=aG]3
+R1
+R2
+Z26 w1680643583
+Z27 8C:/Users/Bigbm/Desktop/LedMatrix/MainLoop.v
+Z28 FC:/Users/Bigbm/Desktop/LedMatrix/MainLoop.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z29 !s107 C:/Users/Bigbm/Desktop/LedMatrix/MainLoop.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Bigbm/Desktop/LedMatrix/MainLoop.v|
+!i113 1
+R10
+R11
+n@main@loop
+vMainLoop2
+R19
+!i10b 1
+!s100 2IzUDTOVcVEY>[HLJm7kZ1
+I@Z<2N72NeBLbzUzPO9_;?3
+R1
+R2
+w1682091452
+8C:/Users/Bigbm/Desktop/LedMatrix/ColumbTest.v
+FC:/Users/Bigbm/Desktop/LedMatrix/ColumbTest.v
+L0 1
+R6
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/Bigbm/Desktop/LedMatrix/ColumbTest.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Bigbm/Desktop/LedMatrix/ColumbTest.v|
+!i113 1
+R10
+R11
+n@main@loop2
+vmux2to1x50
+R19
+!i10b 1
+!s100 cRXfoP?kW:Xjm0P27GDKb1
+IF`_EWBaJV0X?j]32]N`k;1
+R1
+R2
+w1682091857
+8C:/Users/Bigbm/Desktop/LedMatrix/Mux2to1x50.v
+FC:/Users/Bigbm/Desktop/LedMatrix/Mux2to1x50.v
+L0 1
+R6
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/Bigbm/Desktop/LedMatrix/Mux2to1x50.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Bigbm/Desktop/LedMatrix/Mux2to1x50.v|
+!i113 1
+R10
+R11
+vtristate
+R0
+!i10b 1
+!s100 =5;llNh5TH?>dC?J>NQ<[1
+ITB3cca3cMb6T5NAYRNRn92
+R1
+R2
+R26
+R27
+R28
+L0 54
+R6
+r1
+!s85 0
+31
+R7
+R29
+R30
+!i113 1
+R10
+R11

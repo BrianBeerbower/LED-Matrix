@@ -1,0 +1,24 @@
+module MainLoop2(clk,Input,Outbus,Gnd);
+input clk;
+input [4:0] Input;
+output reg [49:0] Outbus;
+output reg [4:0] Gnd;
+reg [15:0] en;
+reg [49:0] level0;
+
+always @ (*)
+begin
+case(Input)
+5'b00000: begin Gnd=5'b11110; Outbus= 50'd1;end
+5'b00001: begin Gnd=5'b11110; Outbus= 50'd4;end
+5'b00010: begin Gnd=5'b11110; Outbus= 50'd16;end
+5'b00011: begin Gnd=5'b11110; Outbus= 50'd64;end
+5'b00100: begin Gnd=5'b11110; Outbus= 50'd256;end
+5'b00101: begin Gnd=5'b11110; Outbus= 50'd1024;end
+5'b00110: begin Gnd=5'b11110; Outbus= 50'd4096;end
+5'b00111: begin Gnd=5'b11110; Outbus= 50'd16384;end
+5'b01000: begin Gnd=5'b11110; Outbus= 50'd65536;end
+endcase
+end
+
+endmodule 
